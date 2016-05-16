@@ -11,4 +11,4 @@ Scraping people for science and stuff.
 
 ## Troubleshooting
 
-I don't know. Add an issue.
+Please go to the main repository for any issues, this is just my sandbox.
